@@ -15,7 +15,7 @@ env:
 jobs:
   publish-to-hub:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    name: Publish to dockerhub
+    name: Publish to dockerhubb
     runs-on: ubuntu-latest
 
     steps:
