@@ -16,7 +16,7 @@ function App() {
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer">
-            Do not learn React
+            Do not learn Kubernetes
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
